@@ -65,7 +65,7 @@ Leave Requests
 Team Stats
 Blockchain Logs
 
-# 👥 Team Members and Responsibilities
+# 👥 Team Members and Responsibilities 
 
 Parul Rana (24CSU292), I took primary responsibility for file handling and persistent data storage, ensuring smooth saving and retrieval of records. I managed
 arrays of objects for both users and leave requests, and organized the official project documentation (including the comprehensive report). I prepared and
