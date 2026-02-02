@@ -78,7 +78,7 @@ exception handling, the blockchain-inspired audit logging mechanism, and data ex
 
 Additionally, we both handled bug fixing, full-system integration, and complete feature testing to ensure a reliable, user-friendly application.
 
-📌 Future Scope
+**📌 Future Scope**
 -GUI version
 
 -Database integration
@@ -87,6 +87,6 @@ Additionally, we both handled bug fixing, full-system integration, and complete 
 
 -Real QR generation
 
-📚 License
+**📚 License**
 This project is for educational/demo purposes only. Commercial use or distribution without permission is not allowed.
 
